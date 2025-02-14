@@ -16,7 +16,7 @@ This repository is structured as a step-by-step tutorial. Follow these steps in 
 4.  **Practice Task - Text Cleaning and Preprocessing:** Solidify your understanding with a hands-on practice task. Apply the cleaning and preprocessing techniques you've learned.
 5.  **Exploring the tokens and product categories:** Learn how to explore the resulting tokens and gain insights into the different product categories present in your dataset.
 6.  **Extracting the adjectives in the reviews:** Focus on extracting adjectives, as they often carry strong sentiment.  We'll explore methods for identifying and isolating adjectives within the reviews.
-7.  **Finding the sentiment of each review:** Implement sentiment analysis techniques to determine the overall sentiment (positive, negative, or neutral) expressed in each review [1].
+7.  **Finding the sentiment of each review:** Implement sentiment analysis techniques to determine the overall sentiment (positive, negative, or neutral) expressed in each review .
 8.  **Challenge Task - Customer Review Analysis:** Put your skills to the test with a comprehensive challenge task that combines all the steps you've learned.
 
 ## Learning Approach
@@ -26,21 +26,17 @@ This guide utilizes a split-screen video approach. You'll watch an instructor wa
 ## Technologies Used
 
 *   Python
-*   NLTK (Natural Language Toolkit) [8]
-*   \[Possibly others, list libraries like scikit-learn, Pandas, etc. as appropriate based on your actual code [4]]
+*   NLTK (Natural Language Toolkit) .
+*   \[Possibly others, list libraries like scikit-learn, Pandas, etc. as appropriate based on your actual code.
 
 ## Potential Applications
 
 *   Identify areas for product improvement
 *   Monitor customer satisfaction
 *   Gain insights into product perception
-*   Improve product recommendations [7]
-*   Analyze market trends [2]
+*   Improve product recommendations 
+*   Analyze market trends 
 
 ## Datasets
 
-*   \[Information about the dataset(s) you are using.  If you are using a publicly available dataset, provide a link and description. If you are using your own dataset, describe its format and structure.]
-
-## Contributing
-
-\[If you want to encourage contributions, add information here about how others can contribute to your project.]
+I have used a dataset
